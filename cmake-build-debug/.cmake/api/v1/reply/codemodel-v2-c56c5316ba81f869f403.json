@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C___Program_to_Draw_a_Diamond_Shape",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Program_to_Draw_a_Diamond_Shape::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Program_to_Draw_a_Diamond_Shape-Debug-1b33447b03bc9f59e48d.json",
+					"name" : "C___Program_to_Draw_a_Diamond_Shape",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/divagarvakeesan/CLionProjects/C++ Program to Draw a Diamond Shape/cmake-build-debug",
+		"source" : "/Users/divagarvakeesan/CLionProjects/C++ Program to Draw a Diamond Shape"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
